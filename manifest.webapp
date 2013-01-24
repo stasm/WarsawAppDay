@@ -16,7 +16,7 @@
   "appcache_path": "/cache.manifest",
   "locales": {
     "pl": {
-      "description": "Slajdy na moje wystąpienie na Firefox OS App Day w Warszawie, 2013",
+      "description": "Slajdy na moje wystąpienie na Firefox OS App Day w Warszawie, 2013"
     }
   },
   "default_locale": "en"
