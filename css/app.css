@@ -43,6 +43,8 @@ body {
     list-style: none;
 }
 #slideshow ul li {
+    margin: 0;
+    padding: 0;
     float: left;
     width: 320px;
     height: 460px;
