@@ -2,11 +2,11 @@
   "version": "0.1",
   "name": "Warsaw App Day",
   "description": "Support for the introduction talk at Firefox OS App Day, Warsaw 2013",
-  "launch_path": "/",
+  "launch_path": "/WarsawAppDay/",
   "icons": {
-    "16": "/img/icons/icon16.png",
-    "48": "/img/icons/icon48.png",
-    "128": "/img/icons/icon128.png"
+    "16": "/WarsawAppDay/img/icons/icon16.png",
+    "48": "/WarsawAppDay/img/icons/icon48.png",
+    "128": "/WarsawAppDay/img/icons/icon128.png"
   },
   "developer": {
     "name": "Staś Małolepszy",
