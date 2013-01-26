@@ -50,15 +50,14 @@ body {
     height: 460px;
     overflow: hidden;
 }
-h1 {
-    font-size: 48px;
-    line-height: 1.3em;
-}
-h2 {
-    margin-bottom: 40px;
-}
 p {
     font-family: Moz Light;
     font-size: 3em;
     padding: 20px;
+    margin: 20px 0 0;
+}
+pre {
+    font-family: Inconsolata;
+    padding: 20px;
+    margin: 20px 0 0;
 }
