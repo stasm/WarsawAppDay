@@ -22,14 +22,14 @@ body {
     margin: 0;
     padding: 0;
 }
-#slideshow {
+#viewport {
     width: 320px;
     height: 460px;
     overflow: hidden;
     position: relative;
     background: #eee;
 }
-#slideshow ul {
+#slideshow {
     position: absolute;
     top: 0;
     -webkit-transition: all .2s ease-out;
@@ -40,9 +40,8 @@ body {
     height: 460px;
     margin: 0;
     padding: 0;
-    list-style: none;
 }
-#slideshow ul li {
+#slideshow section {
     margin: 0;
     padding: 0;
     float: left;
